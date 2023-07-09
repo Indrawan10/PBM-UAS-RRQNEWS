@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1048603734662",
+    "project_id": "rrqproject-cce84",
+    "storage_bucket": "rrqproject-cce84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048603734662:android:255a2952a4788191e31707",
+        "android_client_info": {
+          "package_name": "com.example.rrq_news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048603734662-mot5snqncvib3flsh4795e13ki90ls9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3z_krkeyO846TCuu_04mhwWkpAjQwrA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048603734662-mot5snqncvib3flsh4795e13ki90ls9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1048603734662-diol5v62b8kgfenb7hh3nhlim0v07s5t.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1048603734662-diol5v62b8kgfenb7hh3nhlim0v07s5t</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCaEMetbMojXWv-ApzQNp5lHDI23PoHiPY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1048603734662</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.rrqNews</string>
+	<key>PROJECT_ID</key>
+	<string>rrqproject-cce84</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rrqproject-cce84.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1048603734662:ios:5fffedbac693d08ce31707</string>
+</dict>
+</plist>
